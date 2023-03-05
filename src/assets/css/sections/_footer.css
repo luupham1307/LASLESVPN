@@ -54,3 +54,8 @@
       --grid-cols: 1;
     }
   }
+  @media (max-width: 300px) {
+    .footer-links {
+      --grid-cols: 1;
+    }
+  }
